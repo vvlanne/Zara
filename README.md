@@ -42,3 +42,4 @@ This project scrapes product data from the "Women Dresses" section of the Zara K
 
 4. UI Airflow
 <img width="1436" height="853" alt="Снимок экрана 2025-12-04 в 23 28 14" src="https://github.com/user-attachments/assets/602f99f2-0e89-4726-a620-e6e018078691" />
+<img width="749" height="520" alt="Снимок экрана 2025-12-04 в 23 37 10" src="https://github.com/user-attachments/assets/dfe04da8-005a-418b-b6f6-5021ebc97058" />
